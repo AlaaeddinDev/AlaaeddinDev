@@ -1,91 +1,109 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=800&height=60&lines=Alaa+Eddin+—+Full-Stack+Engineer;Building+Systems+That+Actually+Solve+Problems;Turning+Ideas+→+Products+→+Impact;Trading+Tech+%7C+Automation+%7C+High-Performance+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=Alaa+Eddin+—+System+Architect+%26+Full-Stack+Engineer;Builder+of+Digital+Products+%7C+Trading+Tech+%7C+Automation;Turning+Ideas+Into+High-Impact+Software;Developer+%7C+Trader+%7C+Problem+Solver">
 </p>
 
 ---
 
-<!-- IDENTITY -->
-<h2 align="center">⚡ Builder • Developer • Creative Engineer</h2>
+<h2 align="center">⚡ I Build Systems — Not Just Websites</h2>
 
 <p align="center">
-I build <b>high-performance web systems</b>, <b>digital products</b>, and <b>trading technology</b>.<br>
-Focused on <b>clean architecture</b>, <b>scale</b>, and <b>real problem-solving</b>.
+I design and engineer <b>scalable platforms</b>, <b>high-performance dashboards</b>, <b>full-stack applications</b>, <br>
+and <b>advanced tools for trading analytics & automation</b>.
+<br><br>
+My code solves real problems — for schools, companies, and traders.
 </p>
 
 ---
 
-# 🧩 **What I Build**
-🔥 **Full-stack apps** with modern UI/UX  
-🔥 **APIs & backend systems** that don’t break  
-🔥 **Trading tools** for journaling, analytics & performance  
-🔥 **Business platforms** that automate real workflow  
-🔥 **Dashboards** with data-driven insights  
+# 🧬 **Tech Stack (with Icons PRO)**
 
----
-
-# 🔥 **Featured Products**
-
-## 🚀 TRADELEVO — *The Trading Journal I Wish Existed*
-A system engineered for serious traders:
-
-- Tracks performance intelligently  
-- Detects patterns & weaknesses  
-- Visualizes stats like a hedge-fund dashboard  
-- Fast, modern, built with precision  
-
-> *Trading without journaling is gambling. TRADELEVO fixes that.*
-
----
-
-## 🏫 BTS AZLI — *Events & Clubs Management Platform*
-A system I fully engineered to streamline:
-
-- Clubs & associations  
-- Events planning  
-- Announcements  
-- Internal communication  
-
-Designed to replace old, messy workflows with **automation & clarity**.
-
----
-
-## 👟 LE COQ SPORTIF — *Sample Management Platform*
-Built during my internship.  
-Handles the entire lifecycle of product samples:
-
-- Clothing + shoes  
-- Requests & returns  
-- Stock state  
-- Product info  
-- Full history tracking  
-
-A professional tool that removed hours of manual work.
-
----
-
-# 🛠 **Tech Stack**
 <div align="center">
 
 ### **Frontend**
-🌐 HTML • 🎨 CSS • ⚡ JavaScript  
-⚛ React • 🎯 Tailwind • 🧩 Bootstrap  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="55"/>
 
 ### **Backend**
-🧠 PHP • ⚙️ Laravel • 🗄️ MySQL / SQL
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="55"/>
 
-### **Other Languages**
-🧵 C • ☕ Java • 🐍 Python (basic)
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,java,python" height="55"/>
 
 ### **Tools**
-🔧 Git • 🖥 VS Code • 🎛 Linux • 🎨 Figma
+<img src="https://skillicons.dev/icons?i=git,linux,figma,vscode" height="55"/>
 
 </div>
 
 ---
 
-# 🚨 **Dev Identity**
+# 🧠 **What I Build**
+
+- ⚡ Full-stack systems with business logic  
+- 📊 Trading-analysis platforms  
+- 🧩 Enterprise workflow automation  
+- 🛰 APIs & backend engines  
+- 🎛 Real-time dashboards  
+- 🔐 Secure authentication systems  
+
+---
+
+# 🧨 **Signature Projects**
+
+## 🚀 **TRADELEVO — Trading Journal for High-Performance Traders**
+A professional tool engineered for:
+- Trade journaling  
+- Pattern recognition  
+- Performance analytics  
+- Strategy refinement  
+- Risk & psychology profiling  
+
+Built like a **hedge-fund dashboard**, not a basic notebook.
+
+---
+
+## 🏫 **BTS AZLI — Events & Clubs Management Platform**
+A complete digital system for my school:
+- Manage clubs  
+- Organize events  
+- Publish announcements  
+- Track internal activity  
+
+Saved hours of administrative work.
+
+---
+
+## 👟 **Le Coq Sportif — Product Sample Management System**
+Built during my internship.  
+Handles the full lifecycle of:
+- Clothing & shoe samples  
+- Incoming requests  
+- Returns  
+- Stock states  
+- Item history  
+
+A real business platform used internally.
+
+---
+
+# 🏆 **Trading Credentials (Verified)**
+
+<p align="center"><b>✔ Funded Trader — Multi-Phase Challenges Passed</b></p>
+
+<p align="center">
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2024/12/ALAA-EDDINE-IZIKI@aa@62e887e0e8de3.jpg" width="350"/>
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/07/ALAA-EDDINE-IZIKI@aa@87638373e3bd8.jpg" width="350"/>
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/11/IZIKI-ALAA-EDDINE@aa@c23b06f69a34e.jpg" width="350"/>
+</p>
+
+<p align="center">
+I trade mainly <b>Nasdaq (US100)</b> using structured risk management & price-action logic.<br>
+My dev skills + trading discipline = I build tools that give traders a measurable edge.
+</p>
+
+---
+
+# 🎯 **Mindset**
 ```txt
-> I don’t just code websites.
-> I build systems.
-> Systems that automate, scale, simplify and create impact.
+> Engineering + Trading = Precision.
+> I don’t guess. I don’t rush.
+> I build systems that win — in code, and in the market.
