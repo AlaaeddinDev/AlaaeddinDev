@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=Alaa+Eddin+—+Full-Stack+Engineer+%26+Systems+Builder;Trading+Technology+%7C+Web+Platforms+%7C+Automation;Building+Products+That+Solve+Real+Problems;">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=ALAA+EDDINE+IZIKI+—+Full-Stack+Developer+%26+Trader;Trading+Technology+%7C+Web+Platforms+%7C+Automation;Building+Systems+That+Actually+Solve+Problems.">
 </p>
 
 ---
@@ -9,9 +9,8 @@
 
 <p align="center">
 I design scalable platforms, automation tools, and trading-analysis systems.<br>
-Everything I build has one goal: <b>efficiency, clarity, and real impact.</b>
+Everything I build has one goal: <b>clarity, efficiency, and real impact — both for users and businesses.</b>
 </p>
-
 
 ---
 
@@ -33,33 +32,31 @@ Everything I build has one goal: <b>efficiency, clarity, and real impact.</b>
 
 </div>
 
-
 ---
 
 # 🧩 **Main Projects**  
 *(Click to expand each one)*  
 
-
 ---
 
-## <details><summary><b>🚀 TRADELEVO — Professional Trading Journal & Analytics Tool</b></summary><br>
+## <details><summary><b>🚀 TRADELEVO — Advanced Trading Journal & Analytics Platform</b></summary><br>
 
-A structured and high-performance platform built for serious traders.
+A structured, data-driven platform designed for **serious traders** who want measurable progress.
 
-### ✔ Features
-- Advanced trade journaling  
-- Pattern & behavior recognition  
-- Performance analytics  
-- Psychology & risk tracking  
-- Clean UI inspired by fund dashboards  
+### ✔ Key Features
+- Precision trade journaling  
+- Performance analytics (RR, win-rate, equity curve)  
+- Behavior & pattern recognition  
+- Psychology notes & tagging system  
+- Clean, fund-style UI design  
 
 ### ✔ Tech  
 React • Laravel • Tailwind • MySQL
 
-> Built for traders who want measurable improvement — not guessing.
+> Built from real market experience — not theory.  
+> Designed for traders who want to track results like professionals.
 
 </details>
-
 
 ---
 
@@ -68,41 +65,38 @@ React • Laravel • Tailwind • MySQL
 **Live Preview:** https://bts-bde.vercel.app
 
 ### ✔ What it does
-- Manages clubs & organizations  
-- Announces school events  
-- Handles communication with students  
-- Full admin dashboard  
+- Manages school clubs  
+- Publishes event announcements  
+- Handles student communication  
+- Provides a full admin/role system  
 
 ### ✔ Impact  
-A tool replacing messy offline workflows with an organized, automated system.
+Turned a messy offline process into an automated and structured platform.
 
 ### ✔ Tech  
 Laravel • Tailwind • MySQL • JWT Auth
 
 </details>
 
-
 ---
 
-## <details><summary><b>👟 Le Coq Sportif — Sample Management System</b></summary><br>
+## <details><summary><b>👟 Le Coq Sportif — Internal Sample Management System</b></summary><br>
 
-A professional internal tool built during my internship.
+A professional platform developed during my internship for sample and stock management.
 
 ### ✔ Handles the full cycle:
 - Clothing & shoe samples  
 - Requests & returns  
-- Stock management  
-- Product information  
-- Complete history tracking
+- Sample history & information  
+- Workflow automation  
 
 ### ✔ Impact  
-Removed hours of manual work and improved workflow accuracy.
+Reduced errors, saved hours of manual work, and improved operational accuracy.
 
 ### ✔ Tech  
 PHP • MySQL • Bootstrap
 
 </details>
-
 
 ---
 
@@ -117,18 +111,18 @@ PHP • MySQL • Bootstrap
 </p>
 
 <p align="center">
-I mainly trade <b>Nasdaq (US100)</b> using precision, structure, and disciplined risk management.<br>
-My engineering mindset influences my trading — <b>no emotion, only data.</b>
+I mainly trade <b>Nasdaq (US100)</b> using structure, liquidity, and strict risk management.<br>
+My engineer mindset influences my trading — <b>data first, emotions never.</b>
 </p>
-
 
 ---
 
 # ⚙️ **Developer Philosophy**
 ```txt
 I don't write code to fill pages.
-I build systems that automate, scale, and transform workflows.
+I build systems that automate, scale, and solve real problems.
 
-In tech or in trading,
+In both software and trading:
 precision beats emotion.
-
+Structure beats randomness.
+And consistency beats everything.
